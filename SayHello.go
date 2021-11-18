@@ -6,6 +6,6 @@ func SayHello(name string) {
 	fmt.Println("Hello", name)
 }
 
-func SayGoodBay() {
+func SayGoodBye(name string) {
 	fmt.Println("Goodbye")
 }
