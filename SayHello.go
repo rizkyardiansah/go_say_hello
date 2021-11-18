@@ -7,5 +7,5 @@ func SayHello(name string) {
 }
 
 func SayGoodBye(name string) {
-	fmt.Println("Goodbye")
+	fmt.Println("Goodbye", name)
 }
